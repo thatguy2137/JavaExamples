@@ -9,7 +9,7 @@ public class cMain {
 		Instruments inst2 = new Strings("Bass", 100, "Funky");
 		Instruments inst3 = new Drums("Drums", 200, "Loud", "Deer");
 		
-		
+		//adding to array
 		band[0] = inst1;
 		band[1] = inst2;
 		band[2] = inst3;
